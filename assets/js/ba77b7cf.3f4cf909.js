@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5994],{3382:e=>{e.exports=JSON.parse('{"title":"Vue","slug":"/vue","permalink":"/docs/vue","navigation":{"next":{"title":"Vue UI \u7ec4\u4ef6\u5e93","permalink":"/docs/vue/Vue UI \u7ec4\u4ef6\u5e93"}}}')}}]);

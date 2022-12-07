@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6799],{630:e=>{e.exports=JSON.parse('{"title":"WebPack","slug":"/webpack","permalink":"/docs/webpack","navigation":{"next":{"title":"\u5feb\u901f\u4e0a\u624b","permalink":"/docs/webpack/webpack\u57fa\u7840"}}}')}}]);

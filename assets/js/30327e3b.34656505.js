@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[623],{2198:e=>{e.exports=JSON.parse('{"title":"React","slug":"/react","permalink":"/docs/react","navigation":{"next":{"title":"React \u5165\u95e8","permalink":"/docs/react/react-basic"}}}')}}]);
