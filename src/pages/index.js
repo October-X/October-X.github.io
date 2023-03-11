@@ -4,7 +4,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
+// import hero from './main.svg'
 import styles from './index.module.css';
 
 function HomepageHeader () {
@@ -16,9 +16,12 @@ function HomepageHeader () {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
+            // className="button button--secondary button--lg"
+            className={"button button--secondary button--lg " + styles.my_button}
+            style={{
+            }}
             to="/blog">
-            Docusaurus Tutorial - 5min ⏱️
+            SUITABLE FOR YOU - 5min ⏱️
           </Link>
         </div>
       </div>
