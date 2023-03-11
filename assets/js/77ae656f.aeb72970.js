@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4291],{4713:e=>{e.exports=JSON.parse('{"title":"TypeSript","slug":"/ts","permalink":"/docs/ts","navigation":{"next":{"title":"TS\u5feb\u901f\u5165\u95e8","permalink":"/docs/ts/TS\u5feb\u901f\u5165\u95e8"}}}')}}]);
